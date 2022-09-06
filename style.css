@@ -1,0 +1,17 @@
+.bodyBackground 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+body{
+    text-align: center;
+}
+#myCanvas
+{
+    background-color: blueviolet;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
